@@ -1,3 +1,0 @@
-"0","```r
-ggplot(average_mae_history, aes(x = epoch, y = validation_mae)) + geom_smooth()
-```"
