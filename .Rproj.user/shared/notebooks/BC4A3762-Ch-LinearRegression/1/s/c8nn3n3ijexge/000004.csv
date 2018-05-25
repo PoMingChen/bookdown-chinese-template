@@ -1,2 +1,0 @@
-"0","jour_lm <- lm(log(subs) ~ log(citeprice), data = journals)"
-"0","abline(jour_lm)"
